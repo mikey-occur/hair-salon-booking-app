@@ -14,4 +14,5 @@ Welcome to my very first project! I feel very happy that you took the time to vi
 ![app4](https://github.com/user-attachments/assets/6f2a257c-231b-4152-9393-8f02beabf211)
 ## "The Final Note" 
 I hope you can keep the fire of coding passion burning within you and never stop striving for greater things. Thank you! Wishing you success and joy in every line of code you write. 🚀 The End. 
-Funny Code || Code for Life
+
+## Funny Code || Code for Life
